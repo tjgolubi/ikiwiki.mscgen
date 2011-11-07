@@ -24,7 +24,7 @@ Here's an example of displaying an mscgen graph in ikiwiki.
 This plugin uses the cpan Digest::SHA perl module.
 
 This plugin borrows heavily from the graphviz ikiwiki plugin written by
-JoshTriplett.
+Josh Triplett.
 
 # Installation #
 
